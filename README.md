@@ -1,4 +1,4 @@
-# cwang153.github.io
+# cihangwang2.github.io
 
 Personal academic website of Cihang Wang, served by GitHub Pages.
 
