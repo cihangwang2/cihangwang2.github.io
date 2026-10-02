@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cihangwang2.github.io/sitemap.xml
